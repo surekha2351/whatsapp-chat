@@ -1,0 +1,128 @@
+{
+	"twr36542467": {
+		"user_name": "venkat",
+		"status": "ONLINE",
+		"user_image": "venkat.png",
+		"logout_ts": "2023-08-18T12:12:10",
+		"chat_list": {
+			"abcjhswd45": {
+				"messages": [{
+						"receiver_name": "jk",
+						"message": "HI, How are you?",
+						"timestamp": "2023-08-16T12:12:10",
+						"sender_id": "abcjhswd45"
+					},
+					{
+						"receiver_name": "venkat",
+						"message": "I am good and u?",
+						"timestamp": "2023-08-16T12:13:10",
+						"sender_id": "twr36542467"
+					},
+					
+					{
+						"receiver_name": "venkat",
+						"message": "ok, what else?",
+						"timestamp": "2023-08-18T12:12:10",
+						"sender_id": "twr36542467"
+					}
+				],
+				"image_url":"https://c8.alamy.com/comp/2AREW9M/letter-jk-simple-linked-logo-vector-2AREW9M.jpg",
+				"last_seen": "2023-08-25T01:12:10"
+				
+			},
+			"xyzabc123": {
+				"messages": [{
+						"receiver_name": "jk",
+						"message": "HI, How are you?",
+						"timestamp": "2023-08-16T12:12:10",
+						"sender_id": "xyzabc123"
+					},
+					{
+						"receiver_name": "venkat",
+						"message": "I am good and u?",
+						"timestamp": "2023-08-16T12:13:10",
+						"sender_id": "twr36542467"
+					},
+					{
+						"receiver_name": "venkat",
+						"message": "ok, what else?",
+						"timestamp": "2023-08-18T12:12:10",
+						"sender_id": "twr36542467"
+					}
+				],
+				"image_url":"https://cdn.vectorstock.com/i/1000x1000/62/53/xyz-logo-letter-letter-logo-design-vector-41726253.webp",
+				"last_seen": "2023-08-17T08:30:45"
+			},
+			"ahefg": {
+				"messages": [{
+						"receiver_name": "jk",
+						"message": "HI, How are you?",
+						"timestamp": "2023-08-16T12:12:10",
+						"sender_id": "ahefg"
+					},
+					{
+						"receiver_name": "venkat",
+						"message": "I am good and u?",
+						"timestamp": "2023-08-16T12:13:10",
+						"sender_id": "twr36542467"
+					},
+					{
+						"receiver_name": "venkat",
+						"message": "ok, what else?",
+						"timestamp": "2023-08-18T12:12:10",
+						"sender_id": "twr36542467"
+					}
+				],
+				"image_url":"https://res.cloudinary.com/drdjty87p/image/upload/v1692382686/OIP_9_hqfzvq.jpg",
+				"last_seen": "2023-08-17T08:30:45"
+			},
+			"jfhb": {
+				"messages": [{
+						"receiver_name": "jk",
+						"message": "HI, How are you?",
+						"timestamp": "2023-08-16T12:12:10",
+						"sender_id": "jfhb"
+					},
+					{
+						"receiver_name": "venkat",
+						"message": "I am good and u?",
+						"timestamp": "2023-08-16T12:13:10",
+						"sender_id": "twr36542467"
+					},
+					{
+						"receiver_name": "venkat",
+						"message": "ok, what else?",
+						"timestamp": "2023-08-18T12:12:10",
+						"sender_id": "twr36542467"
+					}
+				],
+				"image_url":"https://res.cloudinary.com/drdjty87p/image/upload/v1692382686/OIP_10_ocfupm.jpg",
+				"last_seen": "2023-08-17T08:30:45"
+			},
+			"zdjvh": {
+				"messages": [{
+						"receiver_name": "jk",
+						"message": "HI, How are you?",
+						"timestamp": "2023-08-16T12:12:10",
+						"sender_id": "zdjvh"
+					},
+					{
+						"receiver_name": "venkat",
+						"message": "I am good and u?",
+						"timestamp": "2023-08-16T12:13:10",
+						"sender_id": "twr36542467"
+					},
+					{
+						"receiver_name": "venkat",
+						"message": "ok, what else?",
+						"timestamp": "2023-08-18T12:12:10",
+						"sender_id": "twr36542467"
+					}
+				],
+				"image_url":"https://exewiki-production.s3.amazonaws.com/Example.jpg",
+				"last_seen": "2023-08-17T08:30:45"
+			}
+
+		}
+	}
+}
